@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Burak</h1>
 
-- 📫 How to reach me **burak.buyukyagmur@gmail.com**
+- 📫 You can reach me **burak.buyukyagmur@gmail.com**
 - 🌱 I’m currently learning **Kubernetes**
 
 <h3 align="left">Languages and Tools:</h3>
