@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Burak</h1>
-<h3 align="center">Data Engineer</h3>
-<h3 align="center">I am a data engineer who is passionate to learn and interested in data-technology topics. I have Cloud and DevOps skills that I use in data analytics pipelines and workloads.</h3>
+<h3 align="center">I am a Data Engineer who is passionate to learn and interested in data-technology topics. I have Cloud and DevOps skills that I use in data analytics pipelines and workloads.</h3>
 
 - 📫 How to reach me **burak.buyukyagmur@gmail.com**
 - 🌱 I’m currently learning **Kubernetes**
